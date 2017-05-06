@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494112667 source:/media/60128FC5128F9EA2/usr/devs/cpp/utils/estr/main.cpp
+	<iostream>
+	"estr.h"
+
+1494113225 /media/60128FC5128F9EA2/usr/devs/cpp/utils/estr/estr.h
+
